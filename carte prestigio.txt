@@ -1,0 +1,94 @@
+
+
+prestigio:
+
+magie:
+
+serpenti luminosi
+1 prestigio
+
+giardino magico:
+2 prestigio
+
+cavalcatura leggendaria
+3 prestigio
+(grifone?)
+
+un tocco di classe
+tutte le carte che valgono pp ne valgono 1 in più
+
+casa semovente:
++1 reclamo
++2 prestigio
+
+bordello:
++1 reclamo
++2 carte
+
+trasformazione:
+distruggi dei serpenti luminosi per ottenere un giardino magico
+oppure distruggi un giadino magico per ottenere una cavalcatura leggendaria
+(giradinizzazione di serpenti)
+
+aggiungere effetti speciali
+una carta prestigio nella tua mano vale il doppio di pp
+1pp
+
+editto reale
+1pp
++2 carte
+
+fuochi artificiali
+1pp
++1 carta
++1 lancio
+
+medaglione dell'appariscenza
+cerca una carta prestigio ne tuo mazzo e aggiungila alla tua mano
++1 carta
+(è quello del mago del prestigio)
+
+uova di serpente
+ottieni due serpenti luminosi
+
+servitori:
+
+scudiero:
+1 forza
+2 prestigio
+
+soldato:
+2 forza
+3 prestigio
+ 
+
+capitano:
++1 a tutti i servitori
+3 forza
+5 prestigio
+
+cavaliere
+4 forza
+quando ottieni questa carta ottieni anche uno scudiero
+5 prestigio
+
+diplomatico
+puoi scartare una carta prestigio, non puoi essere attaccato in questo turno
+1 forza
+4 prestigio 
+
+commerciante
+vinci i pareggi all'asta
++1 reclamo
+forza 1
+prestigio 3
+
+istruttore
+quando ottieni questa carta
+tutti i tuoi scudieri diventano cavalieri
+3 forza
+5 prestigio
+
+carte missione:
+
+carte che ti consentono di usare il prestigio al di fuori di un asta
