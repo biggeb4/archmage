@@ -51,19 +51,7 @@ devi attaccare questo turno
 
 servitori:
 
-assassino
 
-
-
-ladro
-
-pezzente
-
-capo guerriglia
-i tuoi servitori prendono +1 a forza quando attaccano
-2
-
-mercenario
 
 
 

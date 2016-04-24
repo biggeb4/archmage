@@ -5,10 +5,16 @@ pesca 4
 scarta 2
 
 prepararsi
+1 carta
+2 lanci
 
 scossa
+uccidi un servitore con 1 di forza
+1 carta
+1 lancio
 
 fulmine
+uccidi un servitore con 3 o meno di forza 
 
 sfoltire le fila
 un giocatore deve distruggersi servitori fino a che non ne ha 4
@@ -17,6 +23,7 @@ colpire il più alto
 se un giocatore ha più di 4 servitori puoi distruggere un servitore bersaglio
 
 studio folle
++3 carte
 
 mille possibilità
 +1 prestigio per ogni carta che hai in mano
@@ -24,16 +31,20 @@ mille possibilità
 doppia scossa
 distruggi fino a due servitori con forza pari o inferiore a 1
 
+//carte che si possono giocare nell'turno di un avversario
 veste appariscente
+se stai per ricevere una disgrazia puoi giocare questa carta, non ricevi quella disgrazia
+1 carta
 
 contromagia
-
-una magia che ti bersaglia non ha effetto
+quando un giocatore gioca un magia puoi giocare questa carta,
+la magia precedente non ha effetto
 
 deviare
 un servitore bersaglio non può attaccare in questo turno
 +1 carta
 +1 lancio
+//
 
 fusione di coscienze 
 +3 carte
@@ -57,23 +68,31 @@ vale 1pp per ogni carta pescata in questo turno
 
 servitori:**********************************************************************************************************
 apprendista
+1
+1 carta
+1 lancio
+3
 
 topa da biblioteca
+1
+2 carte
+3
 
 Cameriera
-2
-non può attaccare
 1
+non può attaccare
+non può essere uccisa dai servitori
+2
 
-assorbi mana
+carte missione:*********************************************************************************************************
+ninfa assorbi mana
 ogni volta lanci una magia +1 a forza
 1
-2
-carte missione:*********************************************************************************************************
+puoi ottere questa carta se hai pescato 4 carte in questo turno
 
-sparamana
+succube
 ogni volta peschi una carta puoi distruggere una creatura con forza pari o inferiore a 1
-poi richiedere questa carta se hai pesacato 4 carte in questo turno
-2
+poi richiedere questa carta se hai pescato 5 carte in questo turno
+4
 
 

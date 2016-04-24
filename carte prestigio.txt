@@ -4,15 +4,18 @@ prestigio:
 
 magie:
 
+//non va nel draft
 serpenti luminosi
 1 prestigio
-
-giardino magico:
-2 prestigio
 
 cavalcatura leggendaria
 3 prestigio
 (grifone?)
+//
+
+giardino magico:
+2 prestigio
+
 
 un tocco di classe
 tutte le carte che valgono pp ne valgono 1 in più
@@ -91,4 +94,13 @@ tutti i tuoi scudieri diventano cavalieri
 
 carte missione:
 
-carte che ti consentono di usare il prestigio al di fuori di un asta
+magnante
+puoi scartare le carte prestigio per pescare una carta
+2
+ottieni questa carta se hai in mano tre carte prestigio non lanciabili di valore superiore a 1
+
+la banda
+le tue carte prestigio valgono 1 prestigio in più
+4
+ottieni questa carta se hai 8 prestigio in mano
+
