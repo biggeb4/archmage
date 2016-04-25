@@ -81,7 +81,6 @@ puoi scartare una carta prestigio, non puoi essere attaccato in questo turno
 4 prestigio 
 
 commerciante
-vinci i pareggi all'asta
 +1 reclamo
 forza 1
 prestigio 3
@@ -91,8 +90,6 @@ quando ottieni questa carta
 tutti i tuoi scudieri diventano cavalieri
 3 forza
 5 prestigio
-
-carte missione:
 
 magnante
 puoi scartare le carte prestigio per pescare una carta

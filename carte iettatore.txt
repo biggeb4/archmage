@@ -77,13 +77,6 @@ evocatore
 metti al tuo servizio uno scheletro ogni volta che dai un -1
 2
 
-carte missione:
-
-patto con gli inferi
-a fine gioco vale 1 punto vittoria ogni 5 -1 nei mazzi di tutti i giocatori
-dai 5-1 in un turno per ottenere questa carta
-
-
 demone infernale
 puoi lanciare i -1, e il loro effetto diventa dai questa carta ad un giocatore
 3
