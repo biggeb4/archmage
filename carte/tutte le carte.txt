@@ -1,0 +1,134 @@
+artecnai******************************************************************
+
+	servitori:
+
+		bombarolo, 1pv 1pf, lancio dinamite: lancia un dado e scegli destra o sinistra, distruggi il servitore che si trova nella posizione numerata dal dato, partendo
+		dal bombarolo e proseguendo nella direzione scelta
+
+		necromante, 1 pv, 1pf quando perdi un servitore schiera uno zombi
+	
+		scienziato, 2pv, 1pf, puoi giocare due carte dello stesso tipo se la seconda è una carta artecnai
+
+		ragno meccanico, 0 pv, 6 pf
+
+		costruttore, 2pv, 2pf puoi possedere due edifici
+
+		amasso di zombi, 1pv 1pf, +1 pf per ogni zombi che possiedi
+
+	azione:
+
+		bomba a frammentazione, 3 danni a un servitore e 1 a quelli adiacenti
+
+		pozione d'acido, distruggi un costrutto
+
+		colpo di cannone, 3 danni a un servitore o distruggi un edificio
+
+		pioggia di bulloni, 2 danni pesca 1 carta artecnai
+
+		cercare tra i rottami, +1 azione +2 carte artecnai
+
+		fuochi d'artificio, +1 danno per ogni carta artechani giocata 1+ azione
+
+	costrutti:
+
+		laboratorio: evoca uno zombi a inizio turno, edificio
+
+		pistola: a inizio turno puoi infliggere 2 danni a un servitore
+
+		dinosauro meccanico: i servitori di altri giocatori adiacenti non possono usare abilità contro di te
+
+		armatura meccanica: quando una carta ti bersaglia, puoi scartare questa carta e annularne l'effetto
+
+
+eoyu**************************************************************************************************************
+
+	Servitori:
+	
+		Uraluk della steppa, 1pv, 4pf,  se ferito può fare un duello a turno
+
+		elfo del vento, 2pv, 2pf, ingresso: un giocatore riprende in mano un servitore a sua scelta
+
+		troll della neve, 2pv, 4pf, pesca una carta in più se non ferito
+
+	azioni:
+
+		ventata, 1 servitore ritornana in mano ai proprietari
+
+		ondata di gelo, i servitori di un giocatore non possono usare azioni per un giro
+
+		ascoltare la montagna, pesca 2 carte
+
+	costrutti:
+
+		rifugio di montagna, ogni turno puoi vedere la mano di un giocatore
+
+		mammuth, puoi cambiare la posizione di un tuo servitore
+
+		lancia del gelo, annulla l'abilità di un servitore
+
+		pelliccia rigenerante , scarta questa carta, guarisci un servitore
+
+glamordir********************************************************************************************************************************************
+
+	servitori:
+		
+		nano dell'oro, 2pv 2pf, pesca una carta, il nano subisce una ferita
+
+		nano del ferro, 1pv 4pf, se hai perso un servitore in questo giro , puoi duellare chi l'ha ucciso
+
+		nano del mercurio, 1pv 1pf, a inizio turno ottiene l'abilità di uno dei tuoi servitori
+
+		nana d'argento, 3pv 1pf
+
+		nano del rame, 0pv 2pf, vale 1 pv per ogni servitore di glamordir che hai in gioco
+
+		nano di zolfo, 2pv 2pf, le azioni che infliggono danni ne infliggono uno in più
+
+	azioni:
+
+		palla di fuoco, 4 danni a un servitore
+
+		duello, tu e un giocatore bersaglio un servitore, si infliggono danno pari alla forza
+
+		frana, infligge 1 danno a tutti i servitori di un giocatore
+
+	costrutti:
+
+		grotta, quando un tuo servitore subisce danno maggiore di 1 subisce invece 1 danni in meno
+
+		flauto catapunta, scarta una carta infliggi 2 danni a un servitore
+
+		caprone di montagna, scegli da che mazzo pescare
+
+		torta nanica, quando un servitore sta per morire puoi scartare questa carta e rimetterlo in gioco con 1 pf
+		
+
+generali********************************************************************************************************************************************
+
+	servitori:
+
+		cavaliere 2pv 4pf
+
+	azioni:
+
+		scambia la mano con un giocatore
+
+	costrutti:
+
+eventi************************************************************************************************************************************************
+
+		ogni giocatore deve sfidare a duello un altro giocatore
+		
+		scambia una carta con il giocatore alla tua sinistra
+		
+		scambia una carta con il giocatore alla tua destra
+
+		scambia una carta con un giocatore a tua scelta, in ordine di giro
+
+		scambia la mano con il giocatore alla tua destra
+
+		posa il più velocemente un carta sulla pila se sei ultimo puoi parlare solo a belati e non puoi giocare carte azione
+
+		posa il più velocemente un carta sulla pila se sei l'ultimo distruggi un tuo servitore casuale
+
+		posa il più velocemente un carta sulla pila  e scartala, poi pesca due carte se sei stato il primo, una se il secondo

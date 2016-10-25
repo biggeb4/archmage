@@ -1,0 +1,26 @@
+Servitori:
+Uraluk della steppa, 1pv, 2pf, attacco: 2 danni a un servitore, Forma di lupo: sostituisci con lupo uraluk
+
+lupo uraluk,  0pv, 3pf, attacco: 3 danni a un servitore, forma elfo: sostituisci con uraluk della steppa
+
+elfo del vento, 2pv, 2pf, ingresso: cambia laposizione di un servitore volo: riprendi in mano un tuo servitore e l'elfo del vento
+
+troll della neve, 2pv, 4pf, mani grosse: 3 danni a un servitore, può usare questa abilità solo se ferito, pensatore: puoi pescare una carta se non è ferito
+
+azioni:
+
+ventata, 1 servitore ritornana in mano ai proprietari
+
+ondata di gelo, i servitori di un giocatore non possono usare azioni per un giro
+
+ascoltare la montagna, pesca 2 carte
+
+costrutti:
+
+rifugio di montagna, ogni turno puoi vedere la mano di un giocatore
+
+mammuth, puoi cambiare la posizione di un tuo servitore
+
+lancia del gelo, annulla l'abilità di un servitore
+
+pelliccia rigenerante , scarta queta carta, guarisci un servitore

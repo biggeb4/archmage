@@ -1,0 +1,79 @@
+magie:
+
+frugare
+pesca 4
+scarta 2
+
+prepararsi
+
+scossa
+
+fulmine
+
+sfoltire le fila
+un giocatore deve distruggersi servitori fino a che non ne ha 4
+
+colpire il più alto
+se un giocatore ha più di 4 servitori puoi distruggere un servitore bersaglio
+
+studio folle
+
+mille possibilità
++1 prestigio per ogni carta che hai in mano
+
+doppia scossa
+distruggi fino a due servitori con forza pari o inferiore a 1
+
+veste appariscente
+
+contromagia
+
+una magia che ti bersaglia non ha effetto
+
+deviare
+un servitore bersaglio non può attaccare in questo turno
++1 carta
++1 lancio
+
+fusione di coscienze 
++3 carte
+scarta una carta
+un giocatore bersaglio diverso da te pesca una carta
+
+cambiare idea
++1lancio
+scarta un qualsiasi numero di carte e poi pescane altrettante
+
+discorso
++1 lancio
++1 carta
+1pp
+
+sovraccarico
+1pp per ogni magia lanciata in questo turno
+
+dimostrazione di conoscenze:
+vale 1pp per ogni carta pescata in questo turno
+
+servitori:**********************************************************************************************************
+apprendista
+
+topa da biblioteca
+
+Cameriera
+2
+non può attaccare
+1
+
+assorbi mana
+ogni volta lanci una magia +1 a forza
+1
+2
+carte missione:*********************************************************************************************************
+
+sparamana
+ogni volta peschi una carta puoi distruggere una creatura con forza pari o inferiore a 1
+poi richiedere questa carta se hai pesacato 4 carte in questo turno
+2
+
+

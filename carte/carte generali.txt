@@ -1,0 +1,18 @@
+servitori:
+
+bombarolo, 1pv 1pf, lancio dinamite: lancia un dado e scegli destra o sinistra, distruggi il servitore che si trova nella posizione numerata dal dato, partendo
+dal bombarolo e proseguendo nella direzione scelta
+
+azioni:
+scambia la mano con un giocatore
+
+costrutti:
+
+eventi:
+scambia una carta con il giocatore alla tua sinistra
+scambia una carta con il giocatore alla tua destra
+scambia una carta con un giocatore a tua scelta, in ordine di giro
+scambia la mano con il giocatore alla tua destra
+posa il più velocemente un carta sulla pila se sei ultimo puoi parlare solo a belati e non puoi giocare carte azione
+posa il più velocemente un carta sulla pila se sei l'ultimo distruggi un tuo servitore casuale
+posa il più velocemente un carta sulla pila  e scartala, poi pesca due carte se sei stato il primo, una se il secondo

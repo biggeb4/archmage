@@ -1,0 +1,27 @@
+servitori:
+
+zombi, 1 pv, 1pf attacco: infligge 1 danno a un servitore, se muore schiera uno zombi
+
+scienziato, 2pv, 1pf, ingresso: puoi giocare un altra carta di tipo artecnai
+
+ragno meccanico, 3 pv, 5 pf, attacco: infligge 4 danni a un servitore
+
+roboriccio, 2 pv , 3pf, passiva: ogni volta subisce danno da un servitore gli infligge 1 danno
+
+azione:
+
+bomba, 3 danni a un servitore e 1 a quelli adiacenti
+
+pozione d'acido, distruggi un costrutto
+
+colpo di cannone, 3 danni a un servitore o distruggi un edificio
+
+costrutti:
+
+laboratorio: evoca un macchinario a inizo turno, edificio
+
+pistola: a inizio turno puoi infliggere 2 danni a un servitore
+
+dinosauro meccanico: i servitori di altri giocatori adiacenti non possono usare abilità contro di te
+
+armatura meccanica: quando una carta ti bersaglia, puoi scartare questa carta e annularne l'effetto
