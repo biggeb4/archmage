@@ -1,0 +1,99 @@
+magie:
+
+bubbone disgustoso
+
+caffè del apprendista
+
++2carte
++2lanci
+-1 a te stesso
+
+follia
+
+assorbire
+
+maledizione
+-1ad un giocatore
+un giocatore scarta una carta a caso
+
+condividere il malessere
+
+-1 ad un giocatore se hai un -1 in mano
++1lancio
++1carta
+
+frugare tra le maledizioni
+2+carte
+scarta una carta
+-1 ad un giocatore
+
+trascinare nella disgrazia
+
+-1 a un qualsiasi numero di giocatori
+-1 a te stesso
+1pp
+
+attacco mentale
+
+-2 ad un giocatore
+
+rubare la scena
+
+-1 ad un giocatore
+1pp
+
+mazzata
+
+ditruggi un servitore con 1 di forza
+o dai -1 ad un giocatore
+
+rincarare la dose
+dai -1 ad un giocatore pari al n di magie lanciate in questo turno
+
+
+servitori:
+
+gufo
++1 carta quando dai -1
+1
+
+masochista
++1 lancio quando dai -1
+1
+
+magiaricordi
+
+ogni volta che fai scartare una carta ad un giocatore quello prende -1
+
+3
+
+demone della negatività
+
++1 alla forza per ogni -1 che hai in mano
+1
+si possono usare i -1 come se fossero 1 prestigio per acquistare questa carta
+
+evocatore
+metti al tuo servizio uno scheletro ogni volta che dai un -1
+2
+
+demone infernale
+puoi lanciare i -1, e il loro effetto diventa dai questa carta ad un giocatore
+3
+rivela 3(4)-1 dalla tua mano
+
+demone della memoria
+ogni volta che fai scartare una carta ad un giocatore puoi decidere di aggiungerla al tuo mazzo
+3
+fai scartare 5 carte in un turno
+
+
+
+
+
+
+
+
+
+
+

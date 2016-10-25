@@ -1,0 +1,51 @@
+orda:
+
+magie:****************************************************
+
+sete di sangue:
++1 a forza a tutti i tuoi servitori
+
+pelle di roccia:
+i tuoi sevitori non possono morire questo turno
+
+?????????:
+i servitori danno il doppio di -1
+
+pestaggio:
+metti al tuo servizio un pezzente
+
+infondere il panico:
+un servitore non può difendere questo turno
+
+la forza del gruppo:
+1 prestigio per ogni servitore
+
+servitori:**************************************************
+
+assassino
+2
+ogni volta che attacca distruggi un servitore dell' difensore
+5
+
+ladro
+2
+ogni volta che attacca il difensore scarta una carta a caso
+2
+
+pezzente
+1
+non può difendere
+1
+
+capo guerriglia
+2
+i tuoi servitori prendono +1 a forza quando attaccano
+3
+
+
+mercenario
+4
+ogni turno devi spendere 2 prestigio per mantenerlo in servizio
+3
+
+
