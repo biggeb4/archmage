@@ -2,18 +2,17 @@ artecnai******************************************************************
 
 	servitori:
 
-		bombarolo, 1pv 1pf, lancio dinamite: lancia un dado e scegli destra o sinistra, distruggi il servitore che si trova nella posizione numerata dal dato, partendo
-		dal bombarolo e proseguendo nella direzione scelta
-
-		necromante, 1 pv, 1pf quando perdi un servitore schiera uno zombi
+		necromeccanico, 1 pv, 1pf quando perdi un servitore schiera un robot
 	
-		scienziato, 2pv, 1pf, puoi giocare due carte dello stesso tipo se la seconda è una carta artecnai
+		scienziato, 2pv, 1pf, +1 azione, solo per una carta artecnai
 
 		ragno meccanico, 0 pv, 6 pf
 
-		costruttore, 2pv, 2pf puoi possedere due edifici
+		costruttore, 2pv, 2pf schiera un robot
 
-		amasso di zombi, 1pv 1pf, +1 pf per ogni zombi che possiedi
+		amasso di rottami, 1pv 1pf, +1 pf per ogni robot che possiedi
+
+		golem 0pv 1pf, vale 1 pv per ogni robot
 
 	azione:
 
@@ -23,21 +22,21 @@ artecnai******************************************************************
 
 		colpo di cannone, 3 danni a un servitore o distruggi un edificio
 
-		pioggia di bulloni, 2 danni pesca 1 carta artecnai
+		pioggia di bulloni, 1 danno schiera un robot
 
-		cercare tra i rottami, +1 azione +2 carte artecnai
+		cercare tra i rottami, metti in campo 2 robot
 
-		fuochi d'artificio, +1 danno per ogni carta artechani giocata 1+ azione
+		fuochi d'artificio, +1 danno per ogni costrutto 1+ azione
 
 	costrutti:
 
-		laboratorio: evoca uno zombi a inizio turno, edificio
+		laboratorio: evoca uno robot a inizio turno, edificio
 
-		pistola: a inizio turno puoi infliggere 2 danni a un servitore
+		pistola: 1 danno a un servitore, se sacrifichi un robot 3 danni
 
-		dinosauro meccanico: i servitori di altri giocatori adiacenti non possono usare abilità contro di te
+		dinosauro meccanico: i servitori di altri giocatori adiacenti non possono usare abilità
 
-		armatura meccanica: quando una carta ti bersaglia, puoi scartare questa carta e annularne l'effetto
+		armatura meccanica: quando una carta ti bersaglia, puoi distruggere un robot annularne l'effetto
 
 
 eoyu**************************************************************************************************************
@@ -56,7 +55,7 @@ eoyu****************************************************************************
 
 		ondata di gelo, i servitori di un giocatore non possono usare azioni per un giro
 
-		ascoltare la montagna, pesca 2 carte
+		fulmine, distruggi un servitore, l'avversario pesca una carta casuale dalla tua mano, se non hai carte quel giocatore pesca invece una carta
 
 	costrutti:
 
